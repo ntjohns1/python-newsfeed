@@ -10,11 +10,9 @@ This is the continuing studies coursework for UNC Coding Bootcamp in Python. The
 ## Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Usage
